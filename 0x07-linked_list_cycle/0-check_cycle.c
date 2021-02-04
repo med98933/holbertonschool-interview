@@ -1,11 +1,11 @@
 #include "lists.h"
 
 /**
-* check_cycle - Chekcks if LL has a cyle in it
+* check_cycle 
 *
-* @list: listint pointer to linked list
+* @list:  pointer to linked list
 *
-* Return: 0 if there is no cycle, 1 if there is a cycle
+* Return: 0 if there is no cycle
 */
 
 int check_cycle(listint_t *list)
