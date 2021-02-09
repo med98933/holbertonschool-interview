@@ -1,5 +1,5 @@
 #include "lists.h"
-
+#include <stdlib.h>
 
 
 /**
@@ -11,7 +11,7 @@
 listint_t *insert_node(listint_t **head, int number)
 
 {
-	listint_t *new_node_node;
+	listint_t *new_node;
 	listint_t *p;
 	listint_t *current_node;
 
