@@ -61,7 +61,7 @@ return (get_size(root->left) + 1 + get_size(root->right));
  * arr_convert - converts a heap into an array
  * @array: array
  * @root: first node of the heap
- * @x: whree to fill
+ * @y: whree to fill
  *
  * Return: void
  */
