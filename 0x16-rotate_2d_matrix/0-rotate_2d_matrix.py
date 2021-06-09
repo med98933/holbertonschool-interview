@@ -1,11 +1,11 @@
 #!/usr/bin/python3
-""" 
-Script for the Function rotate_2d_matrix 
+"""
+Script for the Function rotate_2d_matrix
 """
 
 
 def rotate_2d_matrix(matrix):
-    """ 
+    """
     Function that rotates the matrix 90 degrees
      """
     s = 0
