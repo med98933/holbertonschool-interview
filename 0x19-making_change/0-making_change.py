@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Given a pile of coins of different values
@@ -6,9 +5,7 @@ Given a pile of coins of different values
 
 
 def makeChange(coins, total):
-    """
-    Make change using minimum coins 
-    """
+    """Make change using minimum coins"""
     coins.sort(reverse=True)
     c = 0
     for coin in coins:
