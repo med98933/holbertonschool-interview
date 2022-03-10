@@ -9,7 +9,7 @@
 * @s1: 1st string
 *
 * @s2: 2nd string
-
+*
 * Return:  0 otherwise
 */
 
