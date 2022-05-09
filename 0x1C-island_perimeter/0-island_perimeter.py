@@ -5,14 +5,14 @@
 
 
 def island_perimeter(grid):
-    """ 
-     Function to find the perimeter of an island 
-     """
+    """
+    Function to find the perimeter of an island
+    """
 
     def edges(matrix):
         """
-         detect number of edges  
-         """
+        detect number of edges
+        """
         c = 0
         for n in matrix:
             n = [0] + n + [0]
