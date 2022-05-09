@@ -5,7 +5,7 @@
 
 
 /**
- * regex_match - recursively checks whether a given pattern 
+ * regex_match - recursively checks whether a given pattern
  *
  * matches a given string
  *
