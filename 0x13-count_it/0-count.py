@@ -1,6 +1,10 @@
 #!/usr/bin/python3
+"""
+0x13. Count it!
+"""
 import requests
 import sys
+
 
 def count_words(subreddit, word_list, after=None, counts=None):
     if counts is None:
