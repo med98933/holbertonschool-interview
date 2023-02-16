@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import requests
-
+import sys
 
 def count_words(subreddit, word_list, after=None, counts=None):
     if counts is None:
